@@ -8,8 +8,8 @@ Vous trouverez ici le package du jeu Streets of Rage 2X pour l'émulateur OpenBo
 - Le package est généré dans le répertoire supérieur (ex: Packaging).
 
 # Installation
-- Copier l'archive Streets_of_Rage_2X-*.*.*-*-any.pkg.tar.xz dans un répertoire de votre choix sur votre système BATOCERA (ex: Packaging).
-- Connectez vous en SSH, puis lancez la commande `pacman -U Streets_of_Rage_2X-*.*.*-*.pkg.tar.xz` dans ce dossier.
+- Copier l'archive Streets_of_Rage_2X-?.?.?-?-any.pkg.tar.xz dans un répertoire de votre choix sur votre système BATOCERA (ex: Packaging).
+- Connectez vous en SSH, puis lancez la commande `pacman -U Streets_of_Rage_2X-?.?.?-?.pkg.tar.xz` dans ce dossier.
 
 # Suppression du package
 - Connectez vous en SSH à votre système BATOCERA
