@@ -2,6 +2,7 @@
 Vous trouverez ici le package du jeu Streets of Rage 2X pour l'émulateur OpenBor. Ce package est destiné au système d'émulation BATOCERA.
 
 # Création du package
+- Le package est déjà disponible à la racine du projet (Streets_of_Rage_2X-?.?.?-?-any.pkg.tar.xz), pour compiler votre propre package vous devez d'abord le supprimer.
 - Copier l'intégralité du répertoire SOR2X dans un répertoire de votre choix sur votre système BATOCERA (ex: Packaging).
 - Connectez vous en SSH, puis placez vous dans le dossier SOR2X.
 - Lancez la commande `batocera-makepkg`
