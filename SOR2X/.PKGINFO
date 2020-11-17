@@ -1,7 +1,9 @@
 pkgname = Streets_of_Rage_2X
-pkgver = 1.0.0-1
+pkgver = 2.1.0-1
 pkgdesc = Remake of Streets of Rage 2x for OpenBor
 arch = any
-group = openbor
+group = sys-openbor
 packager = inrepublica
 url = https://fgames9000.blogspot.com/
+size = 300941312
+builddate = 1605603005
